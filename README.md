@@ -13,7 +13,7 @@ This project conducts a financial analysis of four Asian market ETFs (EWS - Sing
 Here are some key images from the project:
 
 ### Efficient Frontier
-![Efficient Frontier](images\efficient_frontier.png)
+![Efficient Frontier](/images/efficient_frontier.png)
 
 ### Asset Correlations
-![Correlation Matrix](images\correlation.png)
+![Correlation Matrix](/images/correlation.png)
